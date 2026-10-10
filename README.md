@@ -3,7 +3,6 @@
 Nine ML/DL projects covering classical ML, deep learning, NLP, audio,
 graph neural networks, reinforcement learning, and MLOps serving.
 
-## Important: these were reviewed but not executed
 
 Unlike the companion `AI-portfolio-reviewed` repo (where every project
 was actually run and tested), the environment used to review this
